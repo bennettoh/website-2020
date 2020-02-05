@@ -11,16 +11,12 @@ resume: https://bennettoh.github.io/resume.pdf
 social:
   - title: email
     url: mailto:bennettoh.arch@gmail.com
-  - title: twitter
-    url: https://twitter.com/bennettoh
   - title: instagram
-    url: https://instagram.com/bennettoh
-  - title: codepen
-    url: http://codepen.io/bennettoh
+    url: https://instagram.com/bennett.oh
   - title: github
     url: https://github.com/bennettoh
   - title: linkedin
-    url: https://www.linkedin.com/in/bennettoh
+    url: https://www.linkedin.com/in/bennett-oh
 
 # Build settings
 markdown: kramdown
