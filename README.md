@@ -1,10 +1,8 @@
-# v3
+# Static Portfolio Website
 
-Third iteration of my personal website built with Jekyll.
+Show case works related to software development.
 
-> 📢 **PSA for those who want to fork or copy this repo and use it for their own site:**
->
-> Original theme design by [Brittany Chiang](https://bennettoh.github.io/).
+> Original theme design by [Brittany Chiang](https://bchiang7.github.io/).
 
 ## Dependencies
 
