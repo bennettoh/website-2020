@@ -1,6 +1,6 @@
 # Static Portfolio Website
 
-Show case works related to software development.
+Showcase for works related to software development.
 
 > Original theme design by [Brittany Chiang](https://bchiang7.github.io/).
 
