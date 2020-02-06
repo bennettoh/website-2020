@@ -2,7 +2,7 @@
 
 Showcase for works related to software development.
 
-> Original theme design by [Brittany Chiang](https://bchiang7.github.io/).
+> Lovely theme design & developed by [Brittany Chiang](https://bchiang7.github.io/).
 
 ## Dependencies
 

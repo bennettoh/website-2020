@@ -9,8 +9,8 @@
     - thing: CNC Milling
 
 - name: Waterloo Engineering Competition
-  url: https://bennettoh.github.io/WEC
-  code: https://github.com/bennettoh/WEC
+  url: https://cawp.sites.olt.ubc.ca/files/2019/08/190724-Advertisement-V2.pdf
+  code: https://cawp.sites.olt.ubc.ca/files/2019/08/190724-Advertisement-V2.pdf
   description: Produced and presented the competition winning Smart Campus proposal under intensive constraint on budget and time. The proposal detailed clever use of existing infrastructures to quantify and analyze traffic flow on the University of Waterloo Campus. Extrapolated data can have immediate application and enormous future potentials.<br><a class="small" href="http://bennettoh.github.io/WEC">🏆 First Place 🏆</a>
   used:
     - thing: Computer vision
@@ -31,8 +31,8 @@
     - thing: JavaScript
 
 - name: Baton Mobile Application
-  url: https://bennettoh.github.io/baton
-  code: https://github.com/bennettoh/baton
+  # url: https://bennettoh.github.io/baton
+  # code: https://github.com/bennettoh/baton
   description: Collaborated in a team of 3 self-taught enthusiasts to develop functioning prototype for on-demand service app. Designed responsive layout that smoothly transitions between various screen sizes. Utilized Google Adsense to promote the service through sponsored advertisement.
   used:
     - thing: Firebase
