@@ -5,13 +5,6 @@ languages:
   - item: CSS
   - item: JavaScript (ES6)
 
-frameworks:
-  - item: WebGL
-  - item: React
-  - item: Node
-  - item: D3
-  - item: Wordpress
-
 tools:
   - item: Git & Github
   - item: Revit
@@ -25,4 +18,10 @@ design:
   - item: InDesign
   - item: 3D Printing
   - item: Lasercutting
-  - item: CNC Milling
+
+learning:
+  - item: Development methods
+  - item: Unit Testing
+  - item: OpenGL/WebGL
+  - item: Project Management
+  - item: Software Life Cycle

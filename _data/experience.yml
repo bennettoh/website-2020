@@ -1,24 +1,29 @@
 - company: Innovation OnBoard
-  url: https://www.upstatement.com/
-  time: Semi-finalist
-  position: On-going
+  url: https://www.innovationonboard.ca/
+  time: 2020
+  position: Semi-finalist (on-going)
 
 - company: Yuuvis (Redline) Hackathon
-  url: https://www.upstatement.com/
-  time: Top 10
-  position: April 2019
+  url: https://yuuvis.com/events/
+  time: 2019
+  position: Mocked up and demonstrated document translation app in front of industry professional judges
 
 - company: Samsung x Dezeen Ambient Mode Design Competition
-  url: https://web.northeastern.edu/scout/
-  time: Top 15
-  position: August 2018
+  url: https://www.dezeen.com/2018/08/20/top-15-designs-dezeen-samsung-tv-ambient-mode-competition/
+  time: 2018
+  position: One of Top 15 proposals exploring creative ways to utlize Samsung's ambient mode technology
 
 - company: Best Co-op Student of the year
-  url: https://www.apple.com/music/
-  time: Nomination
-  position: 2018 Q1 & Q2
+  url: https://uwaterloo.ca/co-operative-education/co-op-student-awards/co-op-student-year-awards
+  time: 2018
+  position: Received the nomination for making exceptional contribution to work term employer during co-op
 
-- company: Dean's Honour List
-  url: https://web.northeastern.edu/scout/
-  time: Academic Achievement
-  position: Award to top 10% of students of the class
+- company: Dean's Honours List
+  url: https://uwaterloo.ca/systems-design-engineering/deans-honours-list
+  time: 2017
+  position: Awarded to top 10% of students of the class based on term GPA
+
+- company: Engineer of the Future Fund
+  url: https://uwaterloo.ca/engineering/entrepreneurship/funding/engineer-future-trust
+  time: 2017
+  position: Received $2,500 funding to develop virtual reality design tool for architects and engineers
