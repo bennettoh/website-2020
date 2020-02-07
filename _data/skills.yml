@@ -3,7 +3,6 @@ languages:
   - item: Python
   - item: HTML/CSS
   - item: JavaScript
-  - item: C++
 
 tools:
   - item: Git & Github
