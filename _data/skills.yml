@@ -1,12 +1,13 @@
 languages:
   - item: Java
   - item: Python
-  - item: HTML
-  - item: CSS
-  - item: JavaScript (ES6)
+  - item: HTML/CSS
+  - item: JavaScript
+  - item: C++
 
 tools:
   - item: Git & Github
+  - item: Android Studio
   - item: Revit
   - item: Dynamo
   - item: Rhinoceros
@@ -20,8 +21,9 @@ design:
   - item: Lasercutting
 
 learning:
-  - item: Development methods
-  - item: Unit Testing
   - item: OpenGL/WebGL
-  - item: Project Management
-  - item: Software Life Cycle
+  - item: Unit testing
+  - item: Agile methodology
+  - item: Software life cycle
+  - item: Project management
+  
