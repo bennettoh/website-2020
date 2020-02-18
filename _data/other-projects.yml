@@ -31,8 +31,8 @@
     - thing: JavaScript
 
 - name: Baton Mobile Application
-  # url: https://bennettoh.github.io/baton
-  # code: https://github.com/bennettoh/baton
+  url: https://baton-app.bubbleapps.io/
+  code: https://baton-app.bubbleapps.io/
   description: Collaborated in a team of 3 self-taught enthusiasts to develop functioning prototype for on-demand service app. Designed responsive layout that smoothly transitions between various screen sizes. Utilized Google Adsense to promote the service through sponsored advertisement.
   used:
     - thing: Firebase
