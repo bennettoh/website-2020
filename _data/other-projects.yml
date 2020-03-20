@@ -1,3 +1,36 @@
+- name: Web3D
+  url: https://bennettoh.github.io/web3d/
+  code: https://bennettoh.github.io/web3d/
+  description: Interactive 3D modeling environment on web browser. It utilizes WebGL with the aid of three.js library. Work in progress.
+  used:
+    - thing: JavaScript
+    - thing: HTML
+    - thing: CSS
+    - thing: GitHub Pages
+    - thing: three.js Library
+
+- name: Portfolio Website
+  url: https://bennettoh.com
+  code: https://bennettoh.com
+  description: A mobile friendly portfolio website that presents designer's work in user friendly, and engaging manner. Featured pages include landing page with parralax image, masonry portfolio, and blog feature.
+  used:
+    - thing: JavaScript
+    - thing: HTML
+    - thing: CSS
+    - thing: Bluehost
+    - thing: Wordpress
+    - thing: SEO
+
+- name: Baton Mobile Application
+  url: https://baton-app.bubbleapps.io/
+  code: https://baton-app.bubbleapps.io/
+  description: Collaborated in a team of 3 self-taught enthusiasts to develop functioning prototype for on-demand service app. Designed responsive layout that smoothly transitions between various screen sizes. Utilized Google Adsense to promote the service through sponsored advertisement.
+  used:
+    - thing: Firebase
+    - thing: GitHub
+    - thing: Google Maps API
+    - thing: Google Adsense
+
 - name: Robotic Fabrication Workshop
   url: https://github.com/bennettoh/Robotic-Fabrication-Workshop
   code: https://github.com/bennettoh/Robotic-Fabrication-Workshop
@@ -17,25 +50,3 @@
     - thing: Cloud computing
     - thing: InDesign
     - thing: Oral presentation
-
-- name: Architecture Portfolio
-  url: https://bennettoh.com
-  code: https://bennettoh.com
-  description: A mobile friendly portfolio website that presents designer's work in user friendly, and engaging manner. Featured pages include landing page with parralax image, masonry portfolio, and blog feature.
-  used:
-    - thing: Bluehost
-    - thing: Wordpress
-    - thing: SEO
-    - thing: HTML
-    - thing: CSS
-    - thing: JavaScript
-
-- name: Baton Mobile Application
-  url: https://baton-app.bubbleapps.io/
-  code: https://baton-app.bubbleapps.io/
-  description: Collaborated in a team of 3 self-taught enthusiasts to develop functioning prototype for on-demand service app. Designed responsive layout that smoothly transitions between various screen sizes. Utilized Google Adsense to promote the service through sponsored advertisement.
-  used:
-    - thing: Firebase
-    - thing: GitHub
-    - thing: Google Maps API
-    - thing: Google Adsense
