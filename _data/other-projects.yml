@@ -1,3 +1,11 @@
+- name: Software Developer
+  url: https://gumroad.com/archihacks
+  code: https://gumroad.com/archihacks
+  description: Owned architectural plugin development for programs used by professional architects. Utilized functional programming and refactoring patterns in waterfall methodology.
+  used:
+    - thing: Python
+    - thing: Rhino Common API
+
 - name: Web3D
   url: https://bennettoh.github.io/web3d/
   code: https://bennettoh.github.io/web3d/
@@ -8,18 +16,6 @@
     - thing: CSS
     - thing: GitHub Pages
     - thing: three.js Library
-
-- name: Portfolio Website
-  url: https://bennettoh.com
-  code: https://bennettoh.com
-  description: A mobile friendly portfolio website that presents designer's work in user friendly, and engaging manner. Featured pages include landing page with parralax image, masonry portfolio, and blog feature.
-  used:
-    - thing: JavaScript
-    - thing: HTML
-    - thing: CSS
-    - thing: Bluehost
-    - thing: Wordpress
-    - thing: SEO
 
 - name: Baton Mobile Application
   url: https://baton-app.bubbleapps.io/
