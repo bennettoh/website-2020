@@ -1,7 +1,7 @@
 - name: Software Developer
   url: https://gumroad.com/archihacks
   code: https://gumroad.com/archihacks
-  description: Owned architectural plugin development for programs used by professional architects. Utilized functional programming and refactoring patterns in waterfall methodology.
+  description: Owned an architectural plugin development for programs used by professional architects. Utilized functional programming and refactoring patterns in waterfall methodology.
   used:
     - thing: Python
     - thing: Rhino Common API
@@ -20,7 +20,7 @@
 - name: Baton Mobile Application
   url: https://baton-app.bubbleapps.io/
   code: https://baton-app.bubbleapps.io/
-  description: Collaborated in a team of 3 self-taught enthusiasts to develop functioning prototype for on-demand service app. Designed responsive layout that smoothly transitions between various screen sizes. Utilized Google Adsense to promote the service through sponsored advertisement.
+  description: Collaborated in a team of 3 self-taught enthusiasts to develop a functioning prototype for an on-demand service app. My role involved designing a responsive layout that smoothly transitions between various screen sizes. Leveraged Google Adsense to promote the service through sponsored advertisement.
   used:
     - thing: Firebase
     - thing: GitHub
@@ -30,7 +30,7 @@
 - name: Robotic Fabrication Workshop
   url: https://github.com/bennettoh/Robotic-Fabrication-Workshop
   code: https://github.com/bennettoh/Robotic-Fabrication-Workshop
-  description: Participated in the 5 day workshop that produced a free-standing outdoor structure through computational design. Immersed myself in the digital fabrication process which involved parametric design in Rhino + Grasshopper and 5-axis robotic arm equipped with a CNC router.
+  description: The team constructed a free-standing outdoor structure through computational design. Immersed myself in the digital fabrication process which involved parametric design in Rhino + Grasshopper and 5-axis robotic arm equipped with a CNC router.
   used:
     - thing: Python
     - thing: Grasshopper
