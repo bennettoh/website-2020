@@ -1,10 +1,10 @@
 - name: Software Developer
-  url: https://gumroad.com/archihacks
-  code: https://gumroad.com/archihacks
-  description: Owned an architectural plugin development for programs used by professional architects. Utilized functional programming and refactoring patterns in waterfall methodology.
+  url: https://archihacks.com/
+  code: https://archihacks.com/
+  description: Owned an architectural plugin development for programs used by professional architects.
   used:
     - thing: Python
-    - thing: Rhino Common API
+    - thing: Rhino Commons API
 
 - name: Web3D
   url: https://bennettoh.github.io/web3d/
