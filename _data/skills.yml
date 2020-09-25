@@ -1,28 +1,26 @@
 languages:
-  - item: Java
-  - item: Python
-  - item: HTML/CSS
   - item: JavaScript
+  - item: Python
+  - item: Java
+  - item: CSS
+  - item: HTML
+  - item: SQL
 
 tools:
-  - item: Git & Github
+  - item: Visual Studio
   - item: Android Studio
-  - item: Revit
-  - item: Dynamo
-  - item: Rhinoceros
-  - item: Grasshopper
+  - item: Git & Github
+  - item: Bootstrap
+  - item: Firebase
 
 design:
-  - item: Photoshop
   - item: Illustrator
   - item: InDesign
-  - item: 3D Printing
-  - item: Lasercutting
+  - item: Photoshop
+  - item: XD
 
-learning:
-  - item: OpenGL/WebGL
-  - item: Unit testing
-  - item: Agile methodology
-  - item: Software life cycle
-  - item: Project management
-  
+frameworks:
+  - item: React
+  - item: Node
+  - item: JQuery
+  - item: Wordpress

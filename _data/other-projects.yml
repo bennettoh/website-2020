@@ -17,25 +17,15 @@
     - thing: GitHub Pages
     - thing: three.js Library
 
-- name: Baton Mobile Application
-  url: https://baton-app.bubbleapps.io/
-  code: https://baton-app.bubbleapps.io/
-  description: Collaborated in a team of 3 self-taught enthusiasts to develop a functioning prototype for an on-demand service app. My role involved designing a responsive layout that smoothly transitions between various screen sizes. Leveraged Google Adsense to promote the service through sponsored advertisement.
+- name: ArchiTuts
+  url: https://archituts.com
+  code: https://archituts.com
+  description: Created an online learning platform for architects and students from scratch. Utilized Bootstrap for UI, Youtube API for courses, and Firebase for authentication.
   used:
-    - thing: Firebase
-    - thing: GitHub
-    - thing: Google Maps API
-    - thing: Google Adsense
-
-- name: Robotic Fabrication Workshop
-  url: https://github.com/bennettoh/Robotic-Fabrication-Workshop
-  code: https://github.com/bennettoh/Robotic-Fabrication-Workshop
-  description: The team constructed a free-standing outdoor structure through computational design. Immersed myself in the digital fabrication process which involved parametric design in Rhino + Grasshopper and 5-axis robotic arm equipped with a CNC router.
-  used:
-    - thing: Python
-    - thing: Grasshopper
-    - thing: Rhinoceros
-    - thing: CNC Milling
+    - thing: HTML, CSS, JS
+    - thing: Bootstrap
+    - thing: Firebase authentication
+    - thing: YouTube API
 
 - name: Waterloo Engineering Competition
   url: https://cawp.sites.olt.ubc.ca/files/2019/08/190724-Advertisement-V2.pdf
