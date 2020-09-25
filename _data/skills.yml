@@ -6,6 +6,13 @@ languages:
   - item: HTML
   - item: SQL
 
+frameworks:
+  - item: React
+  - item: Node
+  - item: JQuery
+  - item: Wordpress
+  - item: Three.js
+
 tools:
   - item: Visual Studio
   - item: Android Studio
@@ -18,9 +25,3 @@ design:
   - item: InDesign
   - item: Photoshop
   - item: XD
-
-frameworks:
-  - item: React
-  - item: Node
-  - item: JQuery
-  - item: Wordpress
